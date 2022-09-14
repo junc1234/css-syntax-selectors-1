@@ -12,6 +12,7 @@ h1 {
 
 .quote.narrator {
   color: black;
+  font-size: 32px;
 }
 
 #intro p {
@@ -21,4 +22,11 @@ h1 {
 .super-important-omg {
   font-size: 20px;
   background-color: yellow;
+}
+
+.celebration {
+  background-color: aqua;
+  color: blue;
+  font-size: 35px;
+
 }
